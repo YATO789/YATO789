@@ -1,11 +1,3 @@
-<div align="center">
-
-<a href="https://github.com/YATO789">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81yato+%E3%81%A7%E3%81%99+%F0%9F%91%8B;Flutter+%2F+Dart+Developer;TypeScript+%2F+React+%E3%82%82%E6%9B%B8%E3%81%8D%E3%81%BE%E3%81%99;%E6%AF%8E%E6%97%A5%E3%81%AA%E3%81%AB%E3%81%8B%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
-</a>
-
-</div>
-
 ## 👋 About Me
 
 - 📱 Flutter / Dart を中心にアプリを開発しています
