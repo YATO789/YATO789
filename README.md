@@ -1,10 +1,6 @@
 ## 👋 About Me
 
 - 📱 Flutter / Dart を中心にアプリを開発しています
-- 🌐 TypeScript / React で Web もつくります
-- 🌱 いま取り組んでいること: 個人プロダクトの開発と、新しい技術の検証
-- 🏢 [@kamo-it](https://github.com/kamo-it)
-- 📍 Tokyo, Japan (UTC+9)
 
 ## 🛠️ Tech Stack
 
