@@ -23,22 +23,6 @@
   <a href="https://yato789.com/apps/swap"><img src="https://img.shields.io/badge/Website-Swap!-34D399?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Swap! Website" /></a>
 </p>
 
-## 🛠️ Tech Stack
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,ts,react,html,css&perline=8" alt="Languages & Frameworks" />
-  </a>
-</p>
-
-**Tools**
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode&perline=8" alt="Tools" />
-  </a>
-</p>
-
 ## 📫 Contact
 
 <p align="left">
