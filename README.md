@@ -2,6 +2,25 @@
 
 - 📱 Flutter / Dart を中心にアプリを開発しています
 
+## 🚀 Featured Project
+
+### 📔 [Swap! — みんなで書く交換日記アプリ](https://yato789.com/apps/swap)
+
+> 交換日記みたいに、みんなで1日の日記を共有しよう。
+
+「今なにしてる」のひとことと、1日の終わりの日記。招待した友達とだけ、そっと交換できる iOS アプリです。
+
+- 📒 グループごとに、1冊の日記帳
+- 💬 「今なにしてる？」をひとことで
+- 🔒 日記は、書いた人どうしで読める
+- 😊 絵文字とコメントで、ゆるく返す
+- 🎨 表紙をデコって、自分たちだけの1冊に
+
+<p align="left">
+  <a href="https://apps.apple.com/app/id6823869046"><img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store" /></a>
+  <a href="https://yato789.com/apps/swap"><img src="https://img.shields.io/badge/Website-Swap!-34D399?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Swap! Website" /></a>
+</p>
+
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -17,14 +36,6 @@
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode&perline=8" alt="Tools" />
   </a>
 </p>
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-| --- | --- | --- |
-| [swap](https://github.com/YATO789/swap) | ここにプロジェクトの説明を書く | `Dart` |
-| [wiki-lens](https://github.com/YATO789/wiki-lens) | ここにプロジェクトの説明を書く | `TypeScript` |
-| [daylog_playground](https://github.com/YATO789/daylog_playground) | ここにプロジェクトの説明を書く | `—` |
 
 ## 📫 Contact
 
