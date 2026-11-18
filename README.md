@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://yato789.com/apps/swap">
-    <img src="./swap-hero.png" width="480" alt="Swap! のアプリ画面" />
+    <img src="https://raw.githubusercontent.com/YATO789/YATO789/main/swap-hero.png?v=2" width="480" alt="Swap! のアプリ画面" />
   </a>
 </p>
 
