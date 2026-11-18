@@ -22,17 +22,6 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YATO789&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YATO789&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YATO789&theme=tokyonight&hide_border=true&locale=ja" alt="GitHub Streak" />
-</p>
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
