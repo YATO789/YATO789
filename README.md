@@ -23,16 +23,6 @@
   <a href="https://yato789.com/apps/swap"><img src="https://img.shields.io/badge/Website-Swap!-34D399?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Swap! Website" /></a>
 </p>
 
-## 📫 Contact
-
-<p align="left">
-  <a href="https://github.com/YATO789"><img src="https://img.shields.io/badge/GitHub-YATO789-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <!-- 例: X / Zenn / Qiita のバッジ。使う場合はコメントを外して URL を書き換えてください
-  <a href="https://x.com/your_id"><img src="https://img.shields.io/badge/X-@your__id-000000?style=for-the-badge&logo=x" alt="X" /></a>
-  <a href="https://zenn.dev/your_id"><img src="https://img.shields.io/badge/Zenn-your__id-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" /></a>
-  -->
-</p>
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YATO789&color=58a6ff&style=flat-square&label=Profile+Views)
