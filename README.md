@@ -21,6 +21,7 @@
 <p align="center">
   <a href="https://apps.apple.com/app/id6823869046"><img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store" /></a>
   <a href="https://yato789.com/apps/swap"><img src="https://img.shields.io/badge/Website-Swap!-34D399?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Swap! Website" /></a>
+  <a href="https://github.com/YATO789/swap"><img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Swap! GitHub リポジトリ" /></a>
 </p>
 
 <div align="center">
