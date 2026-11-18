@@ -6,34 +6,17 @@
 
 <p align="center">
   <a href="https://yato789.com/apps/swap">
-    <img src="https://yato789.com/apps/swap/app-icon.png" width="96" alt="Swap! アプリアイコン" />
-    <br />
-    <img src="https://yato789.com/apps/swap/swap-title.png" width="280" alt="Swap!" />
+    <img src="./swap-hero.png" width="480" alt="Swap! のアプリ画面" />
   </a>
 </p>
+
+<h3 align="center"><a href="https://yato789.com/apps/swap">Swap! — みんなで書く交換日記アプリ</a></h3>
 
 <p align="center">
   <b>交換日記みたいに、みんなで1日の日記を共有しよう。</b><br />
   「今なにしてる」のひとことと、1日の終わりの日記。<br />
   招待した友達とだけ、そっと交換できる iOS アプリです。
 </p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="20%"><img src="https://yato789.com/apps/swap/screen-home.jpg" width="140" alt="日記帳が並んだホーム画面" /></td>
-    <td align="center" width="20%"><img src="https://yato789.com/apps/swap/screen-timeline.jpg" width="140" alt="ひとことのタイムライン" /></td>
-    <td align="center" width="20%"><img src="https://yato789.com/apps/swap/screen-diaries.jpg" width="140" alt="日記の画面" /></td>
-    <td align="center" width="20%"><img src="https://yato789.com/apps/swap/screen-comment.jpg" width="140" alt="リアクションとコメント" /></td>
-    <td align="center" width="20%"><img src="https://yato789.com/apps/swap/screen-cover.jpg" width="140" alt="表紙の編集画面" /></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>📒 グループごとに<br />1冊の日記帳</sub></td>
-    <td align="center"><sub>💬 「今なにしてる？」<br />をひとことで</sub></td>
-    <td align="center"><sub>🔒 日記は書いた人<br />どうしで読める</sub></td>
-    <td align="center"><sub>😊 絵文字とコメント<br />でゆるく返す</sub></td>
-    <td align="center"><sub>🎨 表紙をデコって<br />自分たちの1冊に</sub></td>
-  </tr>
-</table>
 
 <p align="center">
   <a href="https://apps.apple.com/app/id6823869046"><img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store" /></a>
